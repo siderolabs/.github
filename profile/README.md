@@ -1,8 +1,5 @@
 # Sidero Labs
 
-This is the development home of Sidero Labs (FKA Talos Systems) - the maintainers of the popular Linux distribution [Talos Linux](https://www.talos.dev).
-We encourage you to take a look around and ask questions using GitHub issues and/or GitHub discussions.
-If you can't find what you are looking for here [request an invite](https://inviter.co/sidero-labs-community) to our Slack workspace and join our vibrant community.
-To hear about our enterprise options please visit https://www.SideroLabs.com.
-We also hold regular office hours on the second Monday of every month at 16:30 UTC on [Google Meet](https://meet.google.com/ivb-kjfm-jfc).
-Stop by and say hello!
+Sidero maintains [Talos Linux](https://www.talos.dev/), the open source Linux OS designed for running Kubernetes, and [Omni](https://docs.siderolabs.com/omni/overview/what-is-omni), the control plane for managing Talos clusters at scale. Together, they make it easy to deploy and operate Kubernetes infrastructure through a consistent, API-driven interface, so what your team builds on Day 1 holds to the same standard on Day 1,000.
+
+Feel free to ask questions using GitHub issues and/or discussions, [join our Slack](https://inviter.co/sidero-labs-community), or stop by our office hours on the second Monday of every month at 16:30 UTC on [Google Meet]().
